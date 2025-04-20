@@ -34,6 +34,6 @@ print('hello');
 $$\sqrt{k}$$
 Inline: $\sqrt{k}$
 
-$$\sqrt{3n-1}$$
+$\sqrt{3n-1}$
 
 $E = mc^2$
