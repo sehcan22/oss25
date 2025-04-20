@@ -1,7 +1,7 @@
 # oss25
 Welcome
 
-[![동아대학교](https://www.donga.ac.kr/resources/_Img/Common/logo_w.png)](https://donga.ac.kr)
+[![동아대학교]([https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg])](https://donga.ac.kr)
 
 
 ```python
