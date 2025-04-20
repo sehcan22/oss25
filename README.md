@@ -27,3 +27,7 @@ print('hello');
 ![][dau-logo]
 
 [dau-logo]: https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg "동아대학교 로고"
+
+
+$$\sqrt{k}$$
+Inline: $\sqrt{k}$
