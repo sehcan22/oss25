@@ -7,7 +7,6 @@ Welcome
 ```python
 print('hello');
 ```
-
 `inline_code();`
 
 > blockquote text
