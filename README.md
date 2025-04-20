@@ -18,3 +18,9 @@ print('hello');
 
 - [x] okay
 - [ ] no
+
+
+![alt text] (logo.png "Title")
+
+![] [id]
+[id]:logo.png "Title"
