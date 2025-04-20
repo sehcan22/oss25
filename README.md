@@ -4,6 +4,8 @@ Welcome
 [![동아대학교](https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg)](https://donga.ac.kr)
 
 
+[![](https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg)](https://www.donga.ac.kr)
+
 ```python
 print('hello');
 ```
@@ -13,7 +15,7 @@ print('hello');
 
 ~~skit~~
 
-**bold**
+**bold**  
 
 
 - [x] okay
