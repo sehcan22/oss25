@@ -31,3 +31,5 @@ print('hello');
 
 $$\sqrt{k}$$
 Inline: $\sqrt{k}$
+
+$$\sqrt{3n-1}$$
