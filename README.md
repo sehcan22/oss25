@@ -14,3 +14,7 @@ print('hello');
 ~~skit~~
 
 **bold**
+
+
+- [x] okay
+- [ ] no
