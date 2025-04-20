@@ -6,10 +6,13 @@ Welcome
 
 [![](https://wwwold.donga.ac.kr/Web2017/Sub/001004001_2021_symbol.jpg)](https://www.donga.ac.kr)
 
+
 ```python
 print('hello');
 ```
 `inline_code();`
+
+`git clone` 명령어를 사용해서 저장소를 복제하세요.
 
 > blockquote text
 
